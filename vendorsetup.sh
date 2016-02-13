@@ -1,0 +1,4 @@
+add_lunch_combo omni_lettuce-eng
+add_lunch_combo omni_lettuce-user
+add_lunch_combo omni_lettuce-userdebug
+
